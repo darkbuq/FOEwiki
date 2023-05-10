@@ -8,5 +8,5 @@ E-Mail : inquiry@FormericaOE.com
 # 
 # FOEwiki
 [EEPROM](/EEPROM/EEPROM.md)  
-[I2C](/I2C/I2C.md)
-
+[I2C](/I2C/I2C.md)  
+[外購產品密碼](/outsourcing/outsourcing.md)

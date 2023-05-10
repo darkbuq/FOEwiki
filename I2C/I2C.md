@@ -10,5 +10,5 @@
 ##
 ## AARDVARK I2C/SPI HOST ADAPTER  
 ![](aardvark-black-rgb144_2.jpg)  
-The Aardvark I2C/SPI Host Adapter is a fast and powerful I2C bus and SPI bus host adapter through USB. It allows a developer to interface a Windows, Linux, or Mac OS X PC via USB to a downstream embedded system environment and transfer serial messages using the I2C and SPI protocols.
+The Aardvark I2C/SPI Host Adapter is a fast and powerful I2C bus and SPI bus host adapter through USB. It allows a developer to interface a Windows, Linux, or Mac OS X PC via USB to a downstream embedded system environment and transfer serial messages using the I2C and SPI protocols.  
 ![](aardvark.png)
