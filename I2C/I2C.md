@@ -1,7 +1,4 @@
-# FOEwiki
-### EEPROM
-### I2C device
-#### USB-ISS
+# USB-ISS
 
 ![test1](USB-ISS2.PNG)  
 ![test2](USB-ISS.PNG)

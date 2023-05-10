@@ -1,9 +1,11 @@
+
+![](FOE.PNG)
+
+地址 : 台灣新竹縣竹北市台元街38號5樓之11  
+電話 :+886-3-5600286  
+傳真 : +886-3-5600239  
+E-Mail : inquiry@FormericaOE.com  
+# 
 # FOEwiki
-### EEPROM
-### I2C device
-#### USB-ISS
-
-![test1](USB-ISS2.PNG)  
-![test2](USB-ISS.PNG)
-
-[USB-ISS  Multifunction USB Communications Module](https://www.robot-electronics.co.uk/htm/usb_iss_tech.htm)
+[EEPROM](/EEPROM/EEPROM.md)  
+[I2C](/I2C/I2C.md)
