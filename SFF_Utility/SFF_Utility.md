@@ -13,6 +13,8 @@ SFF_Utility
 ---
 產線功能
 * Firmware 燒錄
+    * *egoserver\文管中心\現行文件\三階文件\品保部-三階公佈檔\egoserverW00-QS01 V1.0 (FirmWare更新作業指導書).pdf
+    * [ICE   (In-Circuit Emulator)   Silicon_Lab燒錄Adapter](/ICE/ICE.md)
 * 校正APC設定值寫入
 * EEPROM 燒錄
 * 產品性能量測

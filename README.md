@@ -1,4 +1,4 @@
-FOEwiki
+FOEwiki  http://ego:8800/doku.php
 ===
 ![](FOE.PNG)  
 ![](product.PNG)  
@@ -7,7 +7,8 @@ FOEwiki
 
 [EEPROM](/EEPROM/EEPROM.md)  
 [I2C](/I2C/I2C.md)  
-ICE  
+[ICE](/ICE/ICE.md)  
+
 [SFF_Utility](/SFF_Utility/SFF_Utility.md)  
 [外購產品密碼](/outsourcing/outsourcing.md)
 
