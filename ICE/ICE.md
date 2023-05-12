@@ -21,7 +21,7 @@ Pin 2 to Silicon Labs pin 4
 Pin 11 to Silicon Labs pin 7
 ```
 ![](qsfpburn_new.jpg)
-![](sfp-board-burn.jpg)
+![](sfp-board-burn.jpg)  
 25G `download pin` → new EVB pin2, pin13 and GND - > old EVB pin2, pin4 and GND
 
 ---
