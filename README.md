@@ -8,6 +8,7 @@ FOEwiki  http://ego:8800/doku.php
 [EEPROM](/EEPROM/EEPROM.md)  
 [I2C](/I2C/I2C.md)  
 [ICE](/ICE/ICE.md)  
+[EVB_Evaluation Board 測試板](EVB/EVB.md)
 
 [SFF_Utility](/SFF_Utility/SFF_Utility.md)  
 [外購產品密碼](/outsourcing/outsourcing.md)
