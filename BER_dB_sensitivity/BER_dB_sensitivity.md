@@ -25,7 +25,9 @@
 指 `光通信模組能夠在特定的位元錯誤率下 接收並辨識出的最低光信號強度`  
 這個數值越小，代表模組越能夠在較低的光信號條件下正確地解讀資料。  
 
-<img src="PSK_BER_curves.png" alt="drawing" width="500"/>
+<img src="PSK_BER_curves.png" alt="drawing" width="500"/>  
 
-BER 取了 `log對數`  似乎會變成直線
+
+BER 取了 `log對數`  似乎會變成直線  
+
 <img src="BER-versus-receiver-sensitivity-of-DS.png" alt="drawing" width="500"/>
