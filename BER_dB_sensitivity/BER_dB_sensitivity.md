@@ -1,4 +1,4 @@
-## BER_dB_sensitivity
+## BER dB sensitivity 相關
 
 [bit error rate (BER)位元錯誤率](https://zh.wikipedia.org/zh-tw/%E6%AF%94%E7%89%B9%E8%AF%AF%E7%A0%81%E7%8E%87)
 
