@@ -24,7 +24,13 @@
 
 <img src="PSK_BER_curves.png" alt="drawing" width="500"/>  
 
-BER 取了 `log對數`  似乎會變成直線  
+BER 取了 `log對數`  似乎會變成直線
+```
+在普通線性關係中
+迴歸係數的解釋為每增加一單位x1，對於y值所造成的絕對量的變動
+
+將y取log後，迴歸係數可以解釋成每單位X的改變，對Y所造成的百分比的變動。
+```  
 
 <img src="BER-versus-receiver-sensitivity-of-DS.png" alt="drawing" width="500"/>
 

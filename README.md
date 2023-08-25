@@ -25,4 +25,5 @@ Subversion原始碼管控
 ---  
 
 ### YR 紀錄
-[BER_dB_ sensitivity](BER_dB_sensitivity/BER_dB_sensitivity.md)
+[BER_dB_ sensitivity](BER_dB_sensitivity/BER_dB_sensitivity.md)  
+[LOS Assert DeAssert](LOS_Assert_DeAssert/LOS_Assert_DeAssert.md)
